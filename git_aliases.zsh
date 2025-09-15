@@ -1,0 +1,6 @@
+alias glog='git log'
+alias gpl='git pull'
+alias gp='git push'
+alias grsoft='git reset --soft HEAD~1'
+alias gs='git status'
+alias gash='git stash'
