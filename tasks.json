@@ -1,0 +1,10 @@
+{
+
+    "system_prompt" : "Do the following math problem:",
+    "tasks": [
+      {"task_id": 1, "prompt": "What is 2+2?"},
+      {"task_id": 2, "prompt": "What is 3+3?"},
+      {"task_id": 3, "prompt": "What is 4+4?"},
+      {"task_id": 4, "prompt": "What is 7+4?"}
+    ]
+  }
